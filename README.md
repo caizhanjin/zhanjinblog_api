@@ -1,5 +1,5 @@
 # zhanjinblog_api
-zhanjinBlog个人博客网站后台代码.使用：
+zhanjinBlog个人博客后台代码：
 
-+ 框架：Django REST framework
-+ 数据库：SQLite
++ Django REST framework
++ SQLite
