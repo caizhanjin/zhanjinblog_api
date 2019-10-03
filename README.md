@@ -1,5 +1,5 @@
 # zhanjinblog_api
-zhanjinBlog个人博客后台代码：
+zhanjinBlog个人博客后端代码：
 
 + [Django REST framework](https://www.django-rest-framework.org/)
 + [SQLite](https://www.sqlite.org/index.html)
