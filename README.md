@@ -8,6 +8,9 @@ zhanjinBlog个人博客后端代码
 ## Build Setup
 
 ``` bash
+# install package
+pip install -r requirement.txt
+
 # run server
 python manage.py runserver
 
